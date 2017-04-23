@@ -124,6 +124,8 @@ What is the per hour crime rate in the city of Boston?
 
 4. In the csv, considered the combine data for month and year and the respective crime incidents.
 
+![](Images/csv_ana5.PNG?raw=true)
+
 The graph below shows the monthly evaluation of the crime incidents occured over the four years.
 
 ![](Images/Ana5.PNG?raw=true)
