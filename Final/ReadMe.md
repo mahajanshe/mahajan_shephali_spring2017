@@ -62,7 +62,7 @@ Which are the crimes occured in Boston city with their high to low frequency rat
 3. Used the COMPNOS(column1) factor to find the frequencies of all the types of crime present in (INCIDENT_TYPE_DESCRIPTiON) column.
 
 
-![](Images/csv_ana2.PNG?raw=true)
+![](Images/csv_ana2.1.PNG?raw=true)
 
 The above csv shows the crime type and corresponding values.
 
